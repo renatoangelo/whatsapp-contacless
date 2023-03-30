@@ -16,7 +16,7 @@ if(!empty($data['sendlogin'])) {
 <head>
 <meta charset="UTF-8" />
     
-    <title>WhatsApp</title>
+    <title>WhatsApp ContactLess</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -48,7 +48,7 @@ if(!empty($data['sendlogin'])) {
         <div class="shape"></div>
     </div>
     <form action="" method="post">
-        <h3>WhatsApp - ContactLess</h3>
+        <h3>WhatsApp</h3>
 
         <label for="ddd">DDD</label>
         <input type="text" placeholder="Insira o DDD" id="ddd" name="ddd">
